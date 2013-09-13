@@ -1,8 +1,8 @@
 <?php
+// this implements http://spaceapi.net/ v0.12
 require __DIR__ . "/Data.php";
 
 $data = new Data;
-
 $open = true;
 
 if ($argc == 2) {
