@@ -29,8 +29,8 @@ data = {
   'url': 'https://muc.ccc.de',
   'location': {
     'address': 'Heßstrasse 90, 80797 München, Germany',
-    'lat': 48.153701,
-    'lon': -11.560801,
+    'lat': 48.15367,
+    'lon': 11.56078,
   },
   'contact': {
     'twitter': '@muccc',
