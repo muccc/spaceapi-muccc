@@ -25,7 +25,7 @@ except:
 data = {
   'api': '0.13',
   'space': 'MuCCC',
-  'logo': 'https://muc.ccc.de/lib/tpl/muc3/images/muc3_klein.gif',
+  'logo': 'http://muc.ccc.de/lib/tpl/muc3/images/muc3_klein.gif',
   'url': 'https://muc.ccc.de',
   'location': {
     'address': 'Heßstrasse 90, München, Germany',
