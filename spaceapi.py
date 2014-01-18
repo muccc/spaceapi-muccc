@@ -13,7 +13,7 @@ states = {
   },
   'hq public': {
     'open': True,
-    'message': 'open for public',
+    'message': 'party!',
   },
 }
 
