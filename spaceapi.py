@@ -7,15 +7,15 @@ import json
 from urllib2 import urlopen
 
 states = {
-  'hq member': {
+  'member': {
     'open': True,
     'message': 'members only',
   },
-  'hq public': {
+  'public': {
     'open': True,
     'message': 'open for public'
   },
-  'hq party': {
+  'party': {
     'open': True,
     'message': 'party!',
   },
