@@ -38,7 +38,7 @@ data = {
   },
   'contact': {
     'twitter': '@muccc',
-    'irc': 'irc://ray.blafasel.de/#ccc',
+    'irc': 'ircs://irc.darkfasel.net/#ccc',
     'email': 'info@muc.ccc.de',
     'ml': 'talk@lists.muc.ccc.de',
   },
